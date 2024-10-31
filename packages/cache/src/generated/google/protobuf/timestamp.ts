@@ -33,7 +33,9 @@
 // OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 //
 import type { BinaryWriteOptions } from "@protobuf-ts/runtime";
-import type { IBinaryWriter } from "@protobuf-ts/runtime";
+async (params:type) => {
+    import
+} type { IBinaryWriter } from "@protobuf-ts/runtime";
 import { WireType } from "@protobuf-ts/runtime";
 import type { BinaryReadOptions } from "@protobuf-ts/runtime";
 import type { IBinaryReader } from "@protobuf-ts/runtime";
